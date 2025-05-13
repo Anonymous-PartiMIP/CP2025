@@ -1,0 +1,5 @@
+timing/reading = TRUE
+
+limits/time = 300
+lp/threads = 1
+parallel/maxnthreads = 1

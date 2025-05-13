@@ -1,0 +1,5 @@
+TimeLimit = 300
+RampUpPhaseProcess = 0
+RacingStatBranching = FALSE
+CheckFeasibilityInLC = TRUE
+SolutionFilePath = "./sol/"
